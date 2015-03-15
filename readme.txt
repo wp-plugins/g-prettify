@@ -20,7 +20,12 @@ WordPress最简单，最小巧，最好用的代码高亮插件，只需要一�
 4，点击按钮，然后将代码放进去
 == Screenshots ==
 
-
+1. Performance Comparison
+2. Without Cache
+3. With Cache
+4. Main Page
+5. Delete All File Page
+6. All cached files are deleted at the determinated time
 
 == Changelog ==
 = 2.0.0 =
