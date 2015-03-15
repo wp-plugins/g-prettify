@@ -20,13 +20,12 @@ WordPress最简单，最小巧，最好用的代码高亮插件，只需要一�
 4，点击按钮，然后将代码放进去
 == Screenshots ==
 
-1. Performance Comparison
-2. Without Cache
-3. With Cache
-4. Main Page
-5. Delete All File Page
-6. All cached files are deleted at the determinated time
-
+1. 安装完毕编辑器出现的按钮
+2. 直接包围代码既可
+3. 另外一个按钮是用于解决</pre>对代码的影响
+4. 完美显示</pre>
+5. 可以兼容多种标签包围方法（可以自己自定义）
+6. 不一样的标签，一样的效果
 == Changelog ==
 = 2.0.0 =
-# 上传插件
+# 上传插件，本来插件早就发不在开源中国的
