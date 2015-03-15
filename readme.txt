@@ -19,5 +19,9 @@ WordPress最简单，最小巧，最好用的代码高亮插件，只需要一�
 3，在WordPressHTML编辑里面有代码高亮的按钮
 4，点击按钮，然后将代码放进去
 
-= 1.0.0 =
-# released the first version.
+== Screenshots ==
+
+
+== Changelog ==
+= 2.0.0 =
+# 上传插件
