@@ -14,10 +14,11 @@ WordPress最简单，最小巧的代码高亮插件
 WordPress最简单，最小巧，最好用的代码高亮插件，只需要一个pre标签就可以搞定一切，兼容所有的标准的google-code-prettify 代码高亮方案
 == Installation ==
 
-1，安装本插件到WordPress
-2，启用插件
-3，在WordPressHTML编辑里面有代码高亮的按钮
-4，点击按钮，然后将代码放进去
+1，下载(Download)
+2，解压(unzip)
+3，上传(upload)
+4，启用(enabled)
+5，OVER
 == Screenshots ==
 
 1. 安装完毕编辑器出现的按钮
