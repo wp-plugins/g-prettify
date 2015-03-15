@@ -18,8 +18,8 @@ WordPress最简单，最小巧，最好用的代码高亮插件，只需要一�
 2，启用插件
 3，在WordPressHTML编辑里面有代码高亮的按钮
 4，点击按钮，然后将代码放进去
-
 == Screenshots ==
+
 
 
 == Changelog ==
